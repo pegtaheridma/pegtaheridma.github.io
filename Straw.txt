@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>3D Arts</title>
+</head>
+<body>
+
+<h1>Black & White Arts in 3D</h1>
+<br> <br>
+<a href="3D.html">Back</a>
+<br><br>
+<img src="3D-Straw.jpg" alt="paper art" width="600" height="400">
+<p>3D Black and white Straws. The artists used 700 recycled straws to make this piece of art.<p>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<br> <br>
+
+</body>
+</html>
+</body>
+</html>
